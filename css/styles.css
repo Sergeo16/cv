@@ -1,0 +1,54 @@
+
+ 
+ 
+ h1, h2 {
+     text-align: center;
+ }
+ 
+ p {
+     margin: 0px;
+ }
+
+ hr {
+     border-color: lightskyblue;
+ }
+ 
+ .contenu {
+     width: 500px;
+     margin: 10px auto;
+     /* background-color: lightskyblue; */
+     }
+
+ .liste-contenu{
+
+ }
+
+ .details{
+     /* background-color: lightpink; */
+     height: 150px;
+
+ }
+
+
+ div.details img{
+     height: 150px;
+     float: left;
+     border-radius: 50%;
+ }
+
+
+ .liste-details{
+     /* background-color: lightsalmon; */
+     float: left;
+     list-style-type: none;
+     margin-top: 25px;
+     
+ }
+
+ .cv-section{
+     /* background-color: rgb(115, 130, 150); */
+
+    
+ }
+
+
